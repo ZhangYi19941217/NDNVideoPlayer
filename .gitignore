@@ -1,0 +1,14 @@
+*.o
+*.d
+*.a
+*.so
+*.so.*
+*.pc
+*.ver
+*_g
+ffmpeg
+ffprob
+ffserver
+ffprobe
+.config
+.version

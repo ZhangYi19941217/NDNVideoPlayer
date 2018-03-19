@@ -1,0 +1,1 @@
+config:x86:x86_64:generic:linux:gcc 5.4.0 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 20160609:--cc='gcc -lstdc++' --cxx=g++ --extra-cxxflags='-g -std=c++11 -Wall -Wextra' --extra-libs='-lboost_filesystem -lmyfunc -lwrapperndn' --enable-pthreads --enable-ffplay

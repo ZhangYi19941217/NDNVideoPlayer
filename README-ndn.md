@@ -1,0 +1,2 @@
+- reply on ndn-cxx & ndn-warpper
+- when configure fails, ref to config.log for error msg.
